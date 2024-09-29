@@ -1,0 +1,4 @@
+i will be posting all resources that i'll use for python in this directory
+
+Books:
+        1)PYTHON PROGRAMMING An Inroduction to Computer sciences by John M.Zelle
