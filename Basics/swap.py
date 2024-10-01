@@ -1,2 +1,9 @@
 a = 5
-print(a+a)
+b = 10
+# Swapping
+temp = a
+a = b
+b = temp
+
+print(a)
+print(b)
